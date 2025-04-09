@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 :notebook:
 
 Sou Perimadson, sou programador Front-End, atualmente estou criando projetos com:
 
