@@ -50,7 +50,7 @@ Atualmente, estudo e desenvolvo projetos com foco nas seguintes tecnologias:
 
 ## ✨ Projetos em Destaque
 
-### 🎲 [**Random Number Generator**](https://github.com/Perimadson35/projeto-random)
+### 🎲 [**Projeto Random**](https://github.com/Perimadson35/projeto-random)
 > Aplicação para geração de números aleatórios usando JavaScript. Design simples, interativo e responsivo.
 
 ### 👟 [**Projeto Nike**](https://github.com/Perimadson35/Projeto-Nike)
